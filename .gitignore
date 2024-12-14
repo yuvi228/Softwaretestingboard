@@ -1,0 +1,14 @@
+
+# Build and output directories
+/target/
+
+# macOS-specific files
+.DS_Store
+
+# IDE-specific files
+.classpath
+.project
+.settings/
+
+# Logs and temporary files
+*.log
